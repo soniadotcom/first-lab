@@ -1,3 +1,6 @@
+body{
+  background-color: bisque;
+}
 canvas{
   border: 3px lightgrey solid;
   margin: 5px;
